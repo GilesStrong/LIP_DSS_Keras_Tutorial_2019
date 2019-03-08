@@ -1,2 +1,2 @@
-# LIP_DSS_Keras_Tutorial_2019
-Repo. for my tutorial at the 2019 LIP Data Science School
+# LIP Data Science School in (astro)particle physics and cosmology, Braga 2019: Keras Tutorial
+
