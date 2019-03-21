@@ -9,5 +9,5 @@ Four notebooks are found in the `notebooks` folder:
 
 ## Running
 The tutorial may either be run directly by installing the appropriate Python modules yourself, or via the Docker image via:
-- `docker pull lipcomputing/data_science_school_2019:keras_tutorial`
-- `docker run -it -p 8888:8888 lipcomputing/data_science_school_2019:keras_tutorial`
+- `docker pull lipcomputing/data_science_school_2019:cpu-py36-keras_tutorial`
+- `docker run -it -p 8888:8888 lipcomputing/data_science_school_2019:cpu-py36-keras_tutorial`
