@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/174577255.svg)](https://zenodo.org/badge/latestdoi/174577255)
+
 # LIP Data Science School in (astro)particle physics and cosmology, Braga 2019: Keras Tutorial
 ## Overview
 This tutorial is designed to present neural networks from a practical, coding perspective and focus on their implementation via [Keras](https://keras.io/).
