@@ -12,6 +12,6 @@ Four notebooks are found in the `notebooks` folder:
 1. Advanced_Application_Example draws on both functional and class-based model building approaches to build a classifier for a real-world example problem; event classifcation at the Large Hadron Collider. Additionally this notebook touches on some fundamental aspects of data science, including validation/test sets, data pre-processing, and model interpretation. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GilesStrong/LIP_DSS_Keras_Tutorial_2019/blob/master/notebooks/5_Advanced_Application_Example.ipynb)
 
 ## Running
-The tutorial may either be run directly by installing the appropriate Python modules yourself, via Google Coolab using the badges, or via the Docker image via:
+The tutorial may either be run directly by installing the appropriate Python modules yourself, via Google Colab using the badges, or via the Docker image via:
 - `docker pull lipcomputing/data_science_school_2019:cpu-py36-keras_tutorial`
 - `docker run -it -p 8888:8888 lipcomputing/data_science_school_2019:cpu-py36-keras_tutorial`
