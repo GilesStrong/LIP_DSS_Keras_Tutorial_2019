@@ -3,7 +3,7 @@
 # Keras Tutorial - Originally presented at LIP Data Science School in (astro)particle physics and cosmology, Braga 2019: 
 ## Overview
 This tutorial is designed to present neural networks from a practical, coding perspective and focus on their implementation via [Keras](https://keras.io/).
-Four notebooks are found in the `notebooks` folder:
+Several notebooks are found in the `notebooks` folder:
 1. SGD_from_scratch uses a single neuron for trivial classification and regression tasks on pseudodata, implementing backpropagation and weight updates manually in Numpy. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GilesStrong/LIP_DSS_Keras_Tutorial_2019/blob/master/notebooks/0_SGD_from_scratch.ipynb)
 1. Basic_Keras_Classification introduces Keras, using a non-trvial, but basic classification problem. Additionally it teaches the class-based approach for model building in Keras. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GilesStrong/LIP_DSS_Keras_Tutorial_2019/blob/master/notebooks/1_Basic_Keras_Classification.ipynb)
 1. Basic_Keras_Regression uses the functional approach for model building in Keras to regress to a non-linear function. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GilesStrong/LIP_DSS_Keras_Tutorial_2019/blob/master/notebooks/2_Basic_Keras_Regression.ipynb)
